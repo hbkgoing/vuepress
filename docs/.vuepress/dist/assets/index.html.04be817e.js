@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as s,a as e}from"./app.522f16c5.js";const l={},n=e("p",null,"'# Hello VuePress'",-1),_=e("p",null,"hello world",-1),c=[n,_];function r(a,d){return t(),s("div",null,c)}const u=o(l,[["render",r],["__file","index.html.vue"]]);export{u as default};
